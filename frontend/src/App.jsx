@@ -18,7 +18,7 @@ function App() {
         <p>
           Edit <code>App.jsx</code> and save to test HMR updates.
         </p>
-        <p>자동배포 테스트</p>
+        <p>자동배포 테스트!!</p>
         <p>
           <a
             className="App-link"
